@@ -1,7 +1,3 @@
-# I declare that my work contains no examples of misconduct, such as plagiarism, or collusion. 
-# Any code taken from other sources is referenced within my code solution. 
-
-
 print("Progression outcomes of Students.\n")
 
 # declaring variables and assigning initial values
